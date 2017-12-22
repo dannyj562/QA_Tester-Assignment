@@ -1,0 +1,5 @@
+1)
+	My favorite test framework is Selenium because it has a great user interface and is very easy to use.
+	I also like the feature of recording scripts because it makes finding bugs much easier and improves speed and 	accuracy.
+
+
