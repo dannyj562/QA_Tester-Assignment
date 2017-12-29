@@ -1,0 +1,25 @@
+1)
+	My favorite test framework is Selenium because it has a great user interface and is very easy to use.
+	I also like the feature of recording scripts because it makes finding bugs much easier and improves speed and 	accuracy.
+
+2) !!!!!!!! Output of unit test !!!!!!!!
+
+
+C:\Users\IUT04\Desktop>py -m unittest test_sample_account.py
+Customer Name: Danny
+Customer Current Balance: 1250
+Amount after deposit: 1750
+Amount after withdrawal 1450
+
+Final Transaction
+
+Customer Name: Danny
+Customer Current Balance: 1450
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK
+
+
+
